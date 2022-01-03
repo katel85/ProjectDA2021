@@ -27,7 +27,6 @@ data set itself can simply be displayed in an output cell within the notebook.
 - Click the green 'code' button and copy the link.
 - Open CMDER and type in git clone and paste the copied link from github.
 - Once the link has been cloned to your machine correctly you will be able to open the file by typing jupyter lab in the command line.
-- This is an interactive notebook that will require some input from the viewer. 
 - To run the entire notebook we must go to the Kernal tab and select "Restart Kernal and Run All "
 - [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/katel85/ProjectDA2021/tree/main/)
 
@@ -49,5 +48,5 @@ data set itself can simply be displayed in an output cell within the notebook.
     
     
 - The dataset was imported and processed to get the variables I required and analysis was conducted to describe, visualise and correlate some of these.
-- Based on data from the SAR-CoV-2 dataset I simulated data from the variables above using the numpy random package
+- Based on data from the SAR-CoV-2 dataset I simulated data from the variables above using the numpy random package and visualised it using different plots.
 - The simulated data and true data correlated well with the methods chosen to stimulate the data in the numpy random package.
