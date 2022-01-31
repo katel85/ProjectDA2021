@@ -32,7 +32,7 @@ data set itself can simply be displayed in an output cell within the notebook.
 
 # Requirements to run the notebook:
 
- Requirements to run this notebook are in the requirements.txt file.
+Requirements to run this notebook are in the requirements.txt file.
 
 # Real World Data Notebook
 
